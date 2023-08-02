@@ -102,7 +102,7 @@ findspark.init()
 
 ## Submission
 
-* **Important**: You must clean up all your AWS resources. Consult the [AWS cleanup guide](Resources/AWS_cleanup.pdf) and [AWS check billing guide](Resources/AWS_check_billing.pdf) as reference.
+* **Important**: You must clean up all your AWS resources. Consult the [AWS cleanup guide](Resources/AWS_cleanup.pdf) and [AWS check billing guide](../Resources/AWS_check_billing.pdf) as reference.
 
 * Download your Google Colab notebooks as `.ipynb` files and upload those to GitHub.
 
